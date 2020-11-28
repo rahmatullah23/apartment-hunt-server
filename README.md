@@ -118,7 +118,7 @@ fetch("https://apartment-hunt-server.herokuapp.com/bookings", {
         email :"test@tt.cc"
         phone :"017xxxxxxxx"
         msg :"msg"
-        ownerEmail :"arzu2050@gmail.com"
+        ownerEmail :"muaz0715@gmail.com"
         status :1
     },
     {...}, {...}
@@ -153,7 +153,7 @@ fetch("https://apartment-hunt-server.herokuapp.com/booking-request", {
     phone: "017xxxxxxxx",
     msg: "any message",
     ownerEmail: "email@cc.c",
-    houseName: "Arzu Vila",
+    houseName: "Muaz Vila",
     price: 941,
     houseId: "5fb3639149e95300174dbbd2",
   }),
@@ -189,11 +189,11 @@ fetch("https://apartment-hunt-server.herokuapp.com/my-bookings", {
 [
   {
     name: "AR Arzu",
-    email: "arzu@ar.com",
+    email: "muaz@ar.com",
     phone: "01794xxxxxx",
     msg: "Lorem Ipsum",
-    ownerEmail: "ar@arzu.com",
-    houseName: "Arzu Vila",
+    ownerEmail: "mu@az.com",
+    houseName: "Muaz Vila",
     price: "941",
     houseId: "5fb3639149e95300174dbbd2"
   },
